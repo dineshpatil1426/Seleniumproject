@@ -1,0 +1,16 @@
+package JavaBasic;
+
+public class Finalizeconcept {
+
+	public static void main(String[] args) {
+		
+		
+			Finalizeconcept f1 = new Finalizeconcept();
+			Finalizeconcept f2 = new Finalizeconcept();
+			
+			
+					
+
+	}
+
+}

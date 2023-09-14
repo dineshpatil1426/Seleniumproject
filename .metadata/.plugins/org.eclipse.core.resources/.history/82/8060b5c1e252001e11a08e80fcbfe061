@@ -1,0 +1,9 @@
+package JavaBasic;
+
+public class B extends A {
+	
+	public B() {
+		System.out.println("Child Constructor");
+	}
+
+}

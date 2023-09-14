@@ -1,0 +1,9 @@
+ObjLogin.EnterUsername("");
+		Thread.sleep(1000);
+		ObjLogin.EnterPassword("");
+		Thread.sleep(1000);
+		
+		ObjLogin.ClickonLogin();
+		Thread.sleep(2000);
+		
+		System.out.println("User Login Successfully...!" );

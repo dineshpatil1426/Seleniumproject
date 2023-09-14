@@ -1,0 +1,15 @@
+package JavaBasic;
+
+public class ConstructorConcept {
+
+	public ConstructorConcept() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

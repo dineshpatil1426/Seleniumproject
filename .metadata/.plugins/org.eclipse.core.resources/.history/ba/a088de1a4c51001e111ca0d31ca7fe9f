@@ -1,0 +1,20 @@
+package JavaBasic;
+
+public class FinallyConcept {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public void test1() {
+		try {
+			
+			System.out.println("inside test Method");
+			throw new RuntimeException("test");
+			
+		}catch() {
+			System.out.println("insode the catch Block");
+		}
+	}
+
+}

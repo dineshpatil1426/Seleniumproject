@@ -1,0 +1,16 @@
+package JavaBasic;
+
+import java.util.Hashtable;
+
+public class HashTableConcept {
+
+	public static void main(String[] args) {
+		
+		
+		Hashtable h = new Hashtable();
+		
+		
+
+	}
+
+}

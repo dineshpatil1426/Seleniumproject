@@ -1,0 +1,13 @@
+package JavaBasic;
+
+public class ArrayListConcept {
+
+	public static void main(String[] args) {
+		
+		ArrayListConcept ar = new ArrayListConcept();
+		
+		ar.add(100);
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package JavaBasic;
+
+public class B extends A {
+	
+	public B() {
+		super(10,20);
+		System.out.println("Child Constructor");
+	}
+	
+	public B(int i) {
+		super(i);
+	}
+	public B(int i,int j) {
+		
+	}
+	
+	public static void main(String args[]) {
+		
+		B obj=new B();
+	}
+
+}

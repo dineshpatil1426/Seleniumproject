@@ -1,0 +1,21 @@
+package JavaBasic;
+
+public class ConstructorConcept {
+
+	public ConstructorConcept() {
+		
+		System.out.println("Default Constructor");
+	}
+	
+	public ConstructorConcept(int i) {
+		System.out.println("single Param Constructor");
+		System.out.println("The value of i:->"+i);
+	}
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

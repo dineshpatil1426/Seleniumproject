@@ -1,0 +1,36 @@
+package JavaBasic;
+
+public class FinallyConcept {
+
+	public static void main(String[] args) {
+		
+		test1();
+	}
+	
+	public static void test1() {
+		try {
+			
+			System.out.println("inside test Method");
+			throw new RuntimeException("test");
+			
+		}catch(Exception e){
+			System.out.println("insode the catch Block");
+		}
+		
+		finally {
+			System.out.println("Inside the Finally Block");
+		}
+	}
+	
+	public void test2() {
+		
+		try {
+			System.out.println("inside test2");
+		}
+		finally {
+			System.out.println("Finally  code  in test2 method");
+		}
+		
+	}
+
+}
