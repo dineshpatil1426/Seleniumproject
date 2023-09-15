@@ -1,0 +1,7 @@
+package SingleTonPattern;
+
+public class DriverInit {
+	
+	private static DriverInit instanceDriver=null;
+
+}

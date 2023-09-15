@@ -1,0 +1,24 @@
+package com.crm.qa.testcases;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DriverInitPractice {
+	
+	
+	private static DriverInitPractice instanceDriver=null;
+	
+	private WebDriver driver;
+	
+	
+	private DriverInitPractice() {
+		
+	}
+	
+	public WebDriver openBrowser() {
+		
+		driver = new ChromeDriver();
+		
+	}
+
+}

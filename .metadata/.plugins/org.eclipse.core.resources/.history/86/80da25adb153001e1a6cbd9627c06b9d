@@ -1,0 +1,25 @@
+package com.crm.qa.testcases;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class DriverInitPractice {
+	
+	
+	private static DriverInitPractice instanceDriver=null;
+	
+	private WebDriver driver;
+	
+	
+	private DriverInitPractice() {
+		
+	}
+	
+	public WebDriver openBrowser() {
+		
+		System.setProperty("webdriver.chrome.driver", "/Users/macmini/Documents/Selenium new/selenium script/OrangeHRM/drivers/chromedriver");
+		driver = new ChromeDriver();
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.crm.qa.testcases;
+
+import org.testng.annotations.BeforeMethod;
+
+public class DriverInitTestPage {
+	
+	@BeforeMethod
+	
+	public void Setup() {
+	  
+	 DriverInitPractice instancedriver=DriverInitPractice.getInstance();
+	 instancedriver.openBrowser();
+	 
+	}
+
+}
