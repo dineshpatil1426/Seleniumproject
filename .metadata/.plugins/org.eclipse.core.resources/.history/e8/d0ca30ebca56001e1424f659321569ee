@@ -1,0 +1,26 @@
+package JavaBasic;
+
+public class FuncationInJava {
+
+	public static void main(String[] args) {
+
+	}
+
+	// No Input No OutPut
+	// void --doesn't  Return any Value
+	public void test() {
+		System.out.println("Test Method");
+
+	}
+	
+	// No Input some output
+	public int sum() {
+		System.out.println("sum Method");
+		
+		int a=10;
+		int b=20;
+		int c=a+b;
+		return c;	
+	}
+
+}

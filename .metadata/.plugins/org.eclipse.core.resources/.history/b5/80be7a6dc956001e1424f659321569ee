@@ -1,0 +1,15 @@
+package JavaBasic;
+
+public class FuncationInJava {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	//No Input No OutPut
+	public void test() {
+		System.out.println("Test Method");
+		
+	}
+
+}

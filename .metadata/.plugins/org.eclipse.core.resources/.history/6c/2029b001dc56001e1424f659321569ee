@@ -1,0 +1,8 @@
+package AbstractionConcepts;
+
+public class AbstractHDFCBank extends AbstractBank {
+
+	public void loan() {
+		
+	}
+}
