@@ -1,0 +1,10 @@
+package JavaBasic;
+
+public class ThrowsKeywords {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

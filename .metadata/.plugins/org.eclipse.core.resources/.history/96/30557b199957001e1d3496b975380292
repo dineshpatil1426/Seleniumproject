@@ -1,0 +1,7 @@
+package AbstractionConcepts;
+
+public class BMW implements Car {
+	
+	
+
+}

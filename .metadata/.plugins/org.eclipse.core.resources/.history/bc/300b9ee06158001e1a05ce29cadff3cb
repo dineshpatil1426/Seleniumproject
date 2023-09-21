@@ -1,0 +1,21 @@
+package JavaBasic;
+
+public class ThrowsKeywords {
+
+	public static void main(String[] args)throws ArithmeticException {
+		
+		ThrowsKeywords obj = new ThrowsKeywords();
+		obj.sum();
+	}
+	
+	public void sum() throws ArithmeticException {
+		
+		div();
+	}
+	
+	public void div() throws ArithmeticException {
+		int i=9/0;
+	}
+	
+
+}

@@ -1,0 +1,20 @@
+package JavaBasic;
+
+public class ThrowsKeywords {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public void sum() {
+		
+		div();
+	}
+	
+	public void div() {
+		int i=9/0;
+	}
+	
+
+}

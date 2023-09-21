@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.aiod.qa.TestCases.BundleDiscountTestCase"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
-    <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.xb.xsdschema.Public"/>
-    <fullyQualifiedTypeName name="com.aiod.qa.Pages.BundleDiscountPage"/>
-    <fullyQualifiedTypeName name="org.testng.Assert"/>
     <fullyQualifiedTypeName name="com.aiod.qa.util.Testutil"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
@@ -52,7 +47,6 @@
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="JavaBasic.Finalizeconcept"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="SingleTonPattern.Singleton"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
     <fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
+    <fullyQualifiedTypeName name="JavaBasic.FuncationInJava"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="AbstractionConcepts.AbstractBank"/>
+    <fullyQualifiedTypeName name="AbstractionConcepts.AbstractHDFCBank"/>
+    <fullyQualifiedTypeName name="AbstractionConcepts.BMW"/>
+    <fullyQualifiedTypeName name="AbstractionConcepts.Car"/>
 </qualifiedTypeNameHistroy>

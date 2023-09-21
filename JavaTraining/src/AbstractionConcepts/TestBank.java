@@ -9,6 +9,7 @@ public class TestBank {
 		obj.credit();
 		obj.Debit();
 		obj.loan();
+		obj.fund();
 		
 		AbstractBank ab = new AbstractHDFCBank();
 		ab.loan();
