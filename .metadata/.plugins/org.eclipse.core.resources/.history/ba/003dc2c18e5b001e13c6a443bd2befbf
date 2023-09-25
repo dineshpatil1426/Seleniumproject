@@ -1,0 +1,26 @@
+package Javainterviews;
+
+public class PrimeNumber {
+	
+	//2 is Lowest Prime number
+
+	public static boolean isprimeNumber(int num) {
+		
+		//edge/corner cases:
+		if(num<=1) {
+			return false;
+		}
+		
+		
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

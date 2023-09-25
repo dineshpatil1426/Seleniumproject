@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="//Un caught exception"/>
 		<list key="findhistory">
+			<item value="//Un caught exception"/>
 			<item value="&#x09;&#x09;&#x09;"/>
 			<item value="//span[@class=&apos;oxd-text oxd-text--span oxd-main-menu-item--name&apos;]"/>
 			<item value="fileuploa"/>

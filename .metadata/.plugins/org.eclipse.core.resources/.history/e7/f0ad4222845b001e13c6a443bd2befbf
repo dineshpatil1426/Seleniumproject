@@ -1,0 +1,16 @@
+package JavaBasic;
+
+public class ThrowKeyword {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("ABC");
+		
+		throw new exception("dinesh Exception");
+		
+		System.out.println("PQR");
+
+	}
+
+}

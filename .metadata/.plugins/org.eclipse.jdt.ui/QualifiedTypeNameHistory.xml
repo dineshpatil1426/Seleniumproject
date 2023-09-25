@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.aiod.qa.util.Testutil"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
     <fullyQualifiedTypeName name="com.google.inject.Key"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
@@ -42,9 +38,7 @@
     <fullyQualifiedTypeName name="collectionPackage.LinkedListConcept"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="JavaBasic.Finalizeconcept"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="SingleTonPattern.Singleton"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="AbstractionConcepts.AbstractHDFCBank"/>
     <fullyQualifiedTypeName name="AbstractionConcepts.BMW"/>
     <fullyQualifiedTypeName name="AbstractionConcepts.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="JavaBasic.ExceptionHandling"/>
+    <fullyQualifiedTypeName name="JavaBasic.ThrowsKeywords"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>
