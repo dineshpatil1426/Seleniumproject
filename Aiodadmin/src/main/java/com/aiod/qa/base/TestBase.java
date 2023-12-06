@@ -42,7 +42,7 @@ public class TestBase {
 			
 			System.out.println("Check browser Name is =>" + browserName);
 			ChromeOptions co = new ChromeOptions();
-			co.addArguments("--remote-allow-origins=*");
+			co.addArguments("--remote-allow-origins=*"); 
 			System.setProperty("webdriver.chrome.driver", "/Users/macmini/Documents/Selenium new/selenium script/Aiodadmin/drivers/chromedriver");
 			driver = new ChromeDriver();
 		}else if (browserName.equals("FF")) {

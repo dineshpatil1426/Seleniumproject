@@ -1,9 +1,0 @@
-package JavaBasic;
-
-public class FuncationInJava {
-
-	public static void main(String[] args) {
-		
-	}
-
-}

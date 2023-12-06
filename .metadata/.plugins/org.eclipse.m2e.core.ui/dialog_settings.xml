@@ -26,15 +26,23 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="AiodFrontEndTestAutomation.AiodfrontendProjTest"/>
+			<item value="AiodFrontEndTestAutomation.AiodfrontEndTest"/>
+			<item value="AiodFrontEndPanelMaven.aiodfront"/>
 			<item value="AiodAdminPanelMaven.Aiodadmin"/>
 			<item value="OrangeHRMMaven.OrangeMavenProject"/>
 			<item value="OrangeHRMMaven.Orange"/>
 		</list>
 		<list key="groupId">
+			<item value="AiodFrontEndTestAutomation"/>
+			<item value="AiodFrontEndPanelMaven"/>
 			<item value="AiodAdminPanelMaven"/>
 			<item value="OrangeHRMMaven"/>
 		</list>
 		<list key="artifactId">
+			<item value="AiodfrontendProjTest"/>
+			<item value="AiodfrontEndTest"/>
+			<item value="aiodfront"/>
 			<item value="Aiodadmin"/>
 			<item value="OrangeMavenProject"/>
 			<item value="Orange"/>
