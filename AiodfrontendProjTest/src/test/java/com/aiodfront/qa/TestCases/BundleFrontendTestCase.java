@@ -57,14 +57,6 @@ public class BundleFrontendTestCase extends TestBase {
 		
 	}
 	
-	/*
-	@Test(priority = 2)
-	public void GoToProduct() throws InterruptedException {
-		
-		bundleFrontend.GotoProductDetails();
-		Thread.sleep(2000);	
-	}
-	*/
 	
 	@AfterMethod
 	public void CloseDriver() throws InterruptedException {

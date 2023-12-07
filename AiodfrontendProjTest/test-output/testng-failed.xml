@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.aiodfront.qa.TestCases.BundleFrontendTestCase">
+      <class name="com.aiodfront.qa.TestCases.FreeGiftTestCase">
         <methods>
-          <include name="setup"/>
-          <include name="verifyhomePageTitle"/>
+          <include name="AddFreeGiftProduct"/>
           <include name="CloseDriver"/>
+          <include name="Setup"/>
         </methods>
-      </class> <!-- com.aiodfront.qa.TestCases.BundleFrontendTestCase -->
+      </class> <!-- com.aiodfront.qa.TestCases.FreeGiftTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
